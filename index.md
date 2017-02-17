@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## What is SwiftSMS
 
-You can use the [editor on GitHub](https://github.com/SwiftSMS/SwiftSMS.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+SwiftSMS helps you use your Webtexts straight from your Android phone or tablet in a fast and simple manner.
+It is designed to provide you with easy and intuitive access to sending text messages using your Network Providers free Webtext allowance.
+Features include:
+ * Send SMS via Webtext
+ * Multiple Accounts
+ * Fast Account Switching
+ * Simple and Quick Contact Suggestions
+ * Store saved SMS messages in your Sent Box (even on KitKat)
+ * Beautiful Android Holo Design
+ * Simple and effective Recent Contacts
+	
+Swift SMS is designed with the Android look and feel in mind, making it fit seamlessly into your device. It makes sending web texts from your Android device feel natural.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Swift SMS currently supports all Irish Network Providers:
+ * Vodafone
+ * Three
+ * Meteor (old & new)
+ * Tesco
+ * EMobile
+ * O2
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SwiftSMS/SwiftSMS.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+See our [Privacy Policy](/privacy.md) for details on the permissions we use and why we need them.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with SwiftSMS?  Ask for help or submit a bug report on [GitHub](https://github.com/SwiftSMS/Android/issues/).
