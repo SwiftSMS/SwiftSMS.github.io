@@ -1,4 +1,4 @@
-# SwiftSMS Privacy Policy
+## SwiftSMS Privacy Policy
 
 Due to the nature of SwiftSMS the application must transmit some data from your device to the selected network operators website.  However we have taken great care to ensure that SwiftSMS will only ever transmit data which is absolutely required for the operation of the application and the data is always transmitted over TLS encrypted HTTPS connections.
 
@@ -9,7 +9,7 @@ The data which must be transmitted is,
 
 SwiftSMS will never transmit any of your data to any other parties.
 
-## Explanation of permissions
+### Explanation of permissions
 
 * android.permission.INTERNET
   
