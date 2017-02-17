@@ -2,6 +2,7 @@
 
 SwiftSMS helps you use your Webtexts straight from your Android phone or tablet in a fast and simple manner.
 It is designed to provide you with easy and intuitive access to sending text messages using your Network Providers free Webtext allowance.
+
 Features include:
  * Send SMS via Webtext
  * Multiple Accounts
